@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Tick-Tack-Game"
+    }
+  },
+  "defaultProject": "Tick-Tack-Game",
+  "cli": {
+    "analytics": false
+  }
 }
